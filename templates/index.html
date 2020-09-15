@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>NEPSE Api</title>
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+	<style>
+		.container{width: 40%;}
+
+		table {font-family: arial, sans-serif;border-collapse: collapse;width: 100%;}
+		td, th {border: 1px solid #dddddd;text-align: left;padding: 8px;}
+		tr:nth-child(even) {background-color: #dddddd;}
+		
+	</style>
+</head>
+<body>
+	<div class="container">
+		<!-- Table begins -->
+		<table>
+			<thead>
+				<th>Nepse's Data</th>
+				<th>Api</th>
+			</thead>
+			<tbody>
+				<td><a href="/todaysprice">Todays Share</a></td>
+				<td><a href="/api/todaysprice">Todays Share api</a></td>
+			</tbody>
+		</table>
+
+	</div>
+</body>
+</html>
+
+
