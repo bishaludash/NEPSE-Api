@@ -9,7 +9,7 @@ Here are the list of python packages requires:
 Run the script download_scheduler.py to fetch the Todays share on background. Data is updated every 6 hour .
 
 ```
-nohup python3 download_scheduler.py &
+nohup python download_scheduler.py &
 
 ```
 
@@ -20,7 +20,7 @@ Start the server in development mode by running command below
 python app.py
 ``` 
 
-### Running in app server background
+### Running  app server background
 ```
-nohup python3 app.py &
+nohup python app.py &
 ```
