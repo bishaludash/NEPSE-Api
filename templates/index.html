@@ -7,9 +7,12 @@
 	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
 
 	<style>
-		.container{width: 40%;}
+		body{
+			font-family: arial;
+		}
+		.container{width: 80%; margin:0 auto;}
 
-		table {font-family: arial, sans-serif;border-collapse: collapse;width: 100%;}
+		table { sans-serif;border-collapse: collapse;width: 100%;}
 		td, th {border: 1px solid #dddddd;text-align: left;padding: 8px;}
 		tr:nth-child(even) {background-color: #dddddd;}
 		
@@ -17,6 +20,9 @@
 </head>
 <body>
 	<div class="container">
+		<h3>NEPSE Api</h3>
+
+		<iframe src="https://ghbtns.com/github-btn.html?user=bishaludas&repo=NEPSE-Api&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 		<!-- Table begins -->
 		<table>
 			<thead>
@@ -28,6 +34,8 @@
 				<td><a href="/api/todaysprice">Todays Share api</a></td>
 			</tbody>
 		</table>
+
+		
 
 	</div>
 </body>
