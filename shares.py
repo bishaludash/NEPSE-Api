@@ -16,9 +16,10 @@ def fetch_todays_share():
         df = df_list[0].dropna(axis=0, thresh=4)
         todaysprice_json = df.to_json(orient="records")
 
-
         with open('dumps/todayshare.json', 'w') as f:
             json.dump(json.loads(todaysprice_json), f)
     except Exception as e:
         print('Could not dump todaysprice json. Exception : {}'.format(e))
 
+if __name__ == "__main__":
+    fetch_todays_share()
