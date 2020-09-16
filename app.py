@@ -10,10 +10,10 @@ PORT = 5000
 
 @app.route('/')
 def welcome():
-	if not os.path.isfile('dumps/todaysprice.json') or \
-	not os.path.isfile('template/todays_price.html'):
-		shares.fetch_todays_share()
-	return render_template('index.html')
+    if not os.path.isfile('dumps/todaysprice.json') or \
+    not os.path.isfile('template/todays_price.html'):
+        shares.fetch_todays_share()
+    return render_template('index.html')
 
 @app.route('/todaysprice')
 def getTodaysPrice():
