@@ -1,8 +1,9 @@
 import schedule
 import time
-import shares
+from shares import NepseScrapper
 
-schedule.every(6).hours.do(shares.fetch_todays_share)
+obj = NepseScrapper()
+schedule.every(6).hours.do(obj.fetch_all_datas)
 while 1 :
     schedule.run_pending()
     time.sleep(1)
