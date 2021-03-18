@@ -3,10 +3,10 @@
 # Setup
 
 Here are the list of python packages requires:
-- Pandas
-- Flask
-- Schedule
-- lxml
+- Pandas => pip install pandas
+- Flask => pip install Flask
+- Schedule => pip install schedule
+- lxml => pip install lxml
 
 ## Scrape Todays share
 Run the script download_scheduler.py to fetch the Todays share on background. Data is updated every 6 hour .
