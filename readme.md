@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/WzqBk1p.png)
 
 # NOTE
-I have remove flask and schedures as project dependency to reduce code footprint and now the scrapping script run on cronjob.
+I have removed flask and schedurer as project dependency to reduce code footprint. The apis are served through github pages and the scrapping script run on cronjob.
 
 # Setup
 Here are the list of python packages requires:
