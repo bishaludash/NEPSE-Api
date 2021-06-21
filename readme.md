@@ -17,6 +17,7 @@ python3 shares.py
 ```
 
 ## Add below code in crontab run in cronjob
+Run the scrapper at 4pm daily.
 ```
-/usr/bin/python3 /path/to/NEPSE-Api/shares.py
+0 16 * * * /usr/bin/python3 /path/to/NEPSE-Api/shares.py
 ```
