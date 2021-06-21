@@ -1,5 +1,6 @@
 ![](https://i.imgur.com/WzqBk1p.png)
-#NOTE
+
+# NOTE
 I have remove flask and schedures as project dependency to reduce code footprint and now the scrapping script run on cronjob.
 
 # Setup
