@@ -35,7 +35,7 @@ class NepseScrapper:
             df = df_list[0].dropna(axis=0, thresh=4)
             todays_share_json = df.to_json(orient="records")
 
-            with open('{}/dumps/todayshare.json'.format(self.cwd), 'w') as f:
+            with open('{}/api/todayshare.json'.format(self.cwd), 'w') as f:
                 json.dump(json.loads(todays_share_json), f)
 
             print("Fetched todays share successfully.")
@@ -60,7 +60,7 @@ class NepseScrapper:
                 df.to_html('{}/templates/{}.html'.format(self.cwd,item), index = False)
 
                 df_json = df.to_json(orient="records")
-                with open('{}/dumps/{}.json'.format(self.cwd,item), 'w') as f:
+                with open('{}/api/{}.json'.format(self.cwd,item), 'w') as f:
                     json.dump(json.loads(df_json), f)
 
                 print("Processing complete for {}".format(item))
