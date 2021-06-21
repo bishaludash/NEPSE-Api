@@ -2,6 +2,7 @@ import urllib.request
 import pandas as pd
 import json
 import os
+from datetime import date
 
 class NepseScrapper:
     """ Class to scrate data from NEPSE
@@ -13,6 +14,7 @@ class NepseScrapper:
     todays_price = "http://www.nepalstock.com/todaysprice/export"
     # Get the current working directory
     cwd = os.path.dirname(os.path.abspath(__file__))
+    today = date.today()
 
     def fetch_all_datas(self):
         """ 
@@ -38,6 +40,10 @@ class NepseScrapper:
             with open('{}/api/todayshare.json'.format(self.cwd), 'w') as f:
                 json.dump(json.loads(todays_share_json), f)
 
+            #backup data with date
+            with open('{}/dumps/todayshare/{}-todayshare.json'.format(self.cwd, self.today), 'w') as f:
+                 json.dump(json.loads(todays_share_json), f)
+
             print("Fetched todays share successfully.")
         except Exception as e:
             print('Could not dump todaysprice json. Exception : {}'.format(e))
@@ -62,6 +68,10 @@ class NepseScrapper:
                 df_json = df.to_json(orient="records")
                 with open('{}/api/{}.json'.format(self.cwd,item), 'w') as f:
                     json.dump(json.loads(df_json), f)
+
+                with open('{}/dumps/{}/{}-{}.json'.format(self.cwd,item,self.today,item), 'w') as f:
+                    json.dump(json.loads(df_json), f)
+
 
                 print("Processing complete for {}".format(item))
         except Exception as e:
