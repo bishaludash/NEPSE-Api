@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import json
+import os
 
 ploads={'_limit':500}
 url = "http://www.nepalstock.com/company"
@@ -40,7 +41,7 @@ def listedCompanyScrapper():
 
       print("Dumping listed company api.")
       df_json = df.to_json(orient="records")
-      with open('{}/dumps/listedCompany.json'.format(cwd), 'w') as f:
+      with open('{}/api/listedCompany.json'.format(cwd), 'w') as f:
          json.dump(json.loads(df_json), f, indent=4, sort_keys=True)
    except Exception as e:
       print('Could not dump listed companies. Exception : {}'.format(e))
