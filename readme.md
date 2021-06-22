@@ -20,4 +20,5 @@ python3 shares.py
 Run the scrapper at 4pm daily.
 ```
 0 16 * * * /usr/bin/python3 /path/to/NEPSE-Api/shares.py
+30 12 * * 5 /usr/bin/python3 /path/to/NEPSE-Api/listed.py
 ```

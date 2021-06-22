@@ -38,11 +38,11 @@ class NepseScrapper:
             todays_share_json = df.to_json(orient="records")
 
             with open('{}/api/todayshare.json'.format(self.cwd), 'w') as f:
-                json.dump(json.loads(todays_share_json), f)
+                json.dump(json.loads(todays_share_json), f, indent=4, sort_keys=True)
 
             #backup data with date
             with open('{}/dumps/todayshare/{}-todayshare.json'.format(self.cwd, self.today), 'w') as f:
-                 json.dump(json.loads(todays_share_json), f)
+                 json.dump(json.loads(todays_share_json), f, indent=4, sort_keys=True)
 
             print("Fetched todays share successfully.")
         except Exception as e:
@@ -67,10 +67,10 @@ class NepseScrapper:
 
                 df_json = df.to_json(orient="records")
                 with open('{}/api/{}.json'.format(self.cwd,item), 'w') as f:
-                    json.dump(json.loads(df_json), f)
+                    json.dump(json.loads(df_json), f, indent=4, sort_keys=True)
 
                 with open('{}/dumps/{}/{}-{}.json'.format(self.cwd,item,self.today,item), 'w') as f:
-                    json.dump(json.loads(df_json), f)
+                    json.dump(json.loads(df_json), f, indent=4, sort_keys=True)
 
 
                 print("Processing complete for {}".format(item))
