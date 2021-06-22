@@ -12,7 +12,7 @@ def listedCompanyScrapper():
    try:
       print("Inside Fetch listed company function.")
       r = requests.post('http://www.nepalstock.com/company', params=ploads)
-      if r.status_code is not 200:
+      if r.status_code != 200:
          exit()
 
       html_file = r.text
