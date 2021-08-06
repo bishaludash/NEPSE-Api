@@ -1974,71 +1974,78 @@
         "Stock Symbol": "UNHPL"
     },
     {
-        "Operations": "http://www.nepalstock.com/company/display/242",
+        "Operations": "http://www.nepalstock.com/company/display/4956",
         "S.N.": "283",
+        "Sector": "Life Insurance",
+        "Stock Name": "Union Life Insurance Company Limited",
+        "Stock Symbol": "ULI"
+    },
+    {
+        "Operations": "http://www.nepalstock.com/company/display/242",
+        "S.N.": "284",
         "Sector": "Finance",
         "Stock Name": "United Finance Ltd.",
         "Stock Symbol": "UFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2914",
-        "S.N.": "284",
+        "S.N.": "285",
         "Sector": "Hydro Power",
         "Stock Name": "United IDI Mardi RB Hydropower Limited.",
         "Stock Symbol": "UMRH"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/180",
-        "S.N.": "285",
+        "S.N.": "286",
         "Sector": "Non Life Insurance",
         "Stock Name": "United Insurance Co. (Nepal) Ltd.",
         "Stock Symbol": "UIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2760",
-        "S.N.": "286",
+        "S.N.": "287",
         "Sector": "Hydro Power",
         "Stock Name": "United Modi Hydropower Ltd.",
         "Stock Symbol": "UMHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2810",
-        "S.N.": "287",
+        "S.N.": "288",
         "Sector": "Hydro Power",
         "Stock Name": "UNIVERSAL POWER COMPANY LTD",
         "Stock Symbol": "UPCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2774",
-        "S.N.": "288",
+        "S.N.": "289",
         "Sector": "Microfinance",
         "Stock Name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "USLB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2792",
-        "S.N.": "289",
+        "S.N.": "290",
         "Sector": "Hydro Power",
         "Stock Name": "Upper Tamakoshi Hydropower Ltd",
         "Stock Symbol": "UPPER"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/687",
-        "S.N.": "290",
+        "S.N.": "291",
         "Sector": "Microfinance",
         "Stock Name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "VLBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/706",
-        "S.N.": "291",
+        "S.N.": "292",
         "Sector": "Microfinance",
         "Stock Name": "Womi Microfinance Bittiya Sanstha Ltd.",
         "Stock Symbol": "WOMI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/146",
-        "S.N.": "292",
+        "S.N.": "293",
         "Sector": "Hotels",
         "Stock Name": "Yak And Yeti Hotel Limited",
         "Stock Symbol": "YHL"
