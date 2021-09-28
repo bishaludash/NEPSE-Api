@@ -1,77 +1,77 @@
 [
     {
-        "% Change": "9.99",
-        "LTP": "1593.70",
+        "% Change": "10.00",
+        "LTP": "1753.00",
         "Symbol": "MKLB"
     },
     {
-        "% Change": "9.97",
-        "LTP": "226.20",
+        "% Change": "9.99",
+        "LTP": "248.80",
         "Symbol": "MKJC"
     },
     {
-        "% Change": "6.08",
-        "LTP": "1025.80",
-        "Symbol": "GUFL"
+        "% Change": "1.97",
+        "LTP": "356.80",
+        "Symbol": "MEGA"
     },
     {
-        "% Change": "4.00",
-        "LTP": "572.00",
-        "Symbol": "MMFDBP"
+        "% Change": "1.42",
+        "LTP": "9995.00",
+        "Symbol": "BNT"
     },
     {
-        "% Change": "1.92",
-        "LTP": "1060.00",
-        "Symbol": "NICAD8283"
+        "% Change": "1.30",
+        "LTP": "1015.00",
+        "Symbol": "SRD80"
     },
     {
-        "% Change": "1.58",
-        "LTP": "10.30",
-        "Symbol": "CMF2"
+        "% Change": "1.20",
+        "LTP": "506.00",
+        "Symbol": "OHL"
     },
     {
-        "% Change": "1.53",
-        "LTP": "995.00",
-        "Symbol": "MFLD85"
+        "% Change": "1.03",
+        "LTP": "11.73",
+        "Symbol": "NIBSF1"
     },
     {
-        "% Change": "1.10",
-        "LTP": "10.10",
-        "Symbol": "LEMF"
+        "% Change": "0.86",
+        "LTP": "1529.00",
+        "Symbol": "VLBS"
     },
     {
-        "% Change": "0.53",
-        "LTP": "9.45",
-        "Symbol": "PSF"
+        "% Change": "0.65",
+        "LTP": "2325.00",
+        "Symbol": "SMFBS"
     },
     {
-        "% Change": "0.53",
-        "LTP": "9.50",
-        "Symbol": "NICSF"
-    },
-    {
-        "% Change": "0.24",
-        "LTP": "12.48",
-        "Symbol": "SAEF"
-    },
-    {
-        "% Change": "0.21",
-        "LTP": "9.47",
-        "Symbol": "SBCF"
-    },
-    {
-        "% Change": "0.20",
-        "LTP": "505.00",
-        "Symbol": "NICAP"
-    },
-    {
-        "% Change": "0.09",
-        "LTP": "11.39",
+        "% Change": "0.35",
+        "LTP": "11.43",
         "Symbol": "NICGF"
     },
     {
-        "% Change": "0.09",
-        "LTP": "11.53",
+        "% Change": "0.24",
+        "LTP": "1265.00",
+        "Symbol": "NICLBSL"
+    },
+    {
+        "% Change": "0.17",
+        "LTP": "11.55",
         "Symbol": "NMB50"
+    },
+    {
+        "% Change": "0.11",
+        "LTP": "1747.00",
+        "Symbol": "MSLB"
+    },
+    {
+        "% Change": "0.10",
+        "LTP": "10.31",
+        "Symbol": "NICBF"
+    },
+    {
+        "% Change": "0.06",
+        "LTP": "1415.00",
+        "Symbol": "GMFBS"
     }
 ]
