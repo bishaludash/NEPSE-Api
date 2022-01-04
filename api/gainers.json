@@ -1,252 +1,252 @@
 [
     {
         "% Change": "10.00",
-        "LTP": "177.10",
-        "Symbol": "MBJC"
-    },
-    {
-        "% Change": "9.45",
-        "LTP": "1330.00",
-        "Symbol": "GLBSL"
-    },
-    {
-        "% Change": "8.38",
-        "LTP": "1203.00",
-        "Symbol": "NICLBSL"
-    },
-    {
-        "% Change": "8.14",
-        "LTP": "6110.00",
-        "Symbol": "STC"
-    },
-    {
-        "% Change": "7.83",
-        "LTP": "830.00",
-        "Symbol": "FMDBL"
-    },
-    {
-        "% Change": "6.89",
-        "LTP": "326.00",
-        "Symbol": "SAPDBL"
-    },
-    {
-        "% Change": "6.26",
-        "LTP": "460.10",
-        "Symbol": "GMFIL"
-    },
-    {
-        "% Change": "6.01",
-        "LTP": "300.00",
-        "Symbol": "LBL"
-    },
-    {
-        "% Change": "5.66",
-        "LTP": "1120.00",
-        "Symbol": "SLBBL"
-    },
-    {
-        "% Change": "5.63",
-        "LTP": "1220.00",
-        "Symbol": "SLBSL"
-    },
-    {
-        "% Change": "5.61",
-        "LTP": "1518.70",
-        "Symbol": "ALBSL"
-    },
-    {
-        "% Change": "5.60",
-        "LTP": "1655.00",
-        "Symbol": "MLBBL"
-    },
-    {
-        "% Change": "5.47",
-        "LTP": "770.00",
-        "Symbol": "RSDC"
-    },
-    {
-        "% Change": "5.26",
-        "LTP": "16399.00",
-        "Symbol": "BNT"
-    },
-    {
-        "% Change": "5.26",
-        "LTP": "520.00",
-        "Symbol": "RLFL"
-    },
-    {
-        "% Change": "5.24",
-        "LTP": "1397.00",
-        "Symbol": "MKLB"
-    },
-    {
-        "% Change": "4.98",
-        "LTP": "1375.20",
-        "Symbol": "KLBSL"
-    },
-    {
-        "% Change": "4.83",
-        "LTP": "1518.00",
-        "Symbol": "LLBS"
-    },
-    {
-        "% Change": "4.73",
-        "LTP": "1130.00",
-        "Symbol": "MERO"
-    },
-    {
-        "% Change": "4.73",
-        "LTP": "573.90",
-        "Symbol": "EBL"
-    },
-    {
-        "% Change": "4.72",
-        "LTP": "1330.00",
-        "Symbol": "VLBS"
-    },
-    {
-        "% Change": "4.69",
-        "LTP": "558.00",
-        "Symbol": "NRN"
-    },
-    {
-        "% Change": "4.67",
-        "LTP": "258.00",
-        "Symbol": "CBL"
-    },
-    {
-        "% Change": "4.52",
-        "LTP": "439.00",
+        "LTP": "482.90",
         "Symbol": "SIFC"
     },
     {
-        "% Change": "4.52",
-        "LTP": "1840.00",
-        "Symbol": "SMB"
+        "% Change": "10.00",
+        "LTP": "358.60",
+        "Symbol": "SAPDBL"
     },
     {
-        "% Change": "4.20",
-        "LTP": "967.00",
-        "Symbol": "GBLBS"
+        "% Change": "9.99",
+        "LTP": "194.80",
+        "Symbol": "MBJC"
     },
     {
-        "% Change": "4.20",
-        "LTP": "2780.00",
-        "Symbol": "JSLBB"
+        "% Change": "9.72",
+        "LTP": "385.00",
+        "Symbol": "SBI"
     },
     {
-        "% Change": "4.12",
-        "LTP": "1364.00",
-        "Symbol": "SABSL"
+        "% Change": "9.43",
+        "LTP": "377.00",
+        "Symbol": "SINDU"
     },
     {
-        "% Change": "4.02",
-        "LTP": "345.00",
-        "Symbol": "PROFL"
+        "% Change": "8.59",
+        "LTP": "326.00",
+        "Symbol": "GBIME"
     },
     {
-        "% Change": "3.98",
-        "LTP": "10.71",
-        "Symbol": "SIGS2"
+        "% Change": "8.57",
+        "LTP": "1493.00",
+        "Symbol": "KLBSL"
     },
     {
-        "% Change": "3.92",
-        "LTP": "10.86",
-        "Symbol": "NBF2"
-    },
-    {
-        "% Change": "3.80",
-        "LTP": "1345.10",
-        "Symbol": "MMFDB"
-    },
-    {
-        "% Change": "3.76",
-        "LTP": "1049.00",
-        "Symbol": "CLBSL"
-    },
-    {
-        "% Change": "3.70",
-        "LTP": "10.10",
-        "Symbol": "LEMF"
-    },
-    {
-        "% Change": "3.67",
-        "LTP": "1920.00",
-        "Symbol": "SMFBS"
-    },
-    {
-        "% Change": "3.67",
-        "LTP": "1270.00",
-        "Symbol": "SDLBSL"
-    },
-    {
-        "% Change": "3.66",
-        "LTP": "1302.00",
-        "Symbol": "ACLBSL"
-    },
-    {
-        "% Change": "3.58",
-        "LTP": "578.00",
-        "Symbol": "GFCL"
-    },
-    {
-        "% Change": "3.45",
-        "LTP": "1395.00",
-        "Symbol": "ILBS"
-    },
-    {
-        "% Change": "3.43",
-        "LTP": "3309.90",
-        "Symbol": "CIT"
-    },
-    {
-        "% Change": "3.42",
-        "LTP": "1118.00",
-        "Symbol": "NLBBL"
-    },
-    {
-        "% Change": "3.36",
-        "LTP": "434.00",
+        "% Change": "8.53",
+        "LTP": "471.00",
         "Symbol": "MPFL"
     },
     {
-        "% Change": "3.26",
-        "LTP": "412.00",
+        "% Change": "8.29",
+        "LTP": "898.80",
+        "Symbol": "FMDBL"
+    },
+    {
+        "% Change": "8.24",
+        "LTP": "302.00",
+        "Symbol": "CZBIL"
+    },
+    {
+        "% Change": "7.86",
+        "LTP": "350.00",
+        "Symbol": "GRDBL"
+    },
+    {
+        "% Change": "7.66",
+        "LTP": "829.00",
+        "Symbol": "RSDC"
+    },
+    {
+        "% Change": "7.58",
+        "LTP": "497.00",
+        "Symbol": "SCB"
+    },
+    {
+        "% Change": "7.52",
+        "LTP": "316.00",
+        "Symbol": "NIFRA"
+    },
+    {
+        "% Change": "7.37",
+        "LTP": "494.00",
+        "Symbol": "GMFIL"
+    },
+    {
+        "% Change": "7.21",
+        "LTP": "476.00",
+        "Symbol": "PFL"
+    },
+    {
+        "% Change": "7.16",
+        "LTP": "615.00",
+        "Symbol": "EBL"
+    },
+    {
+        "% Change": "7.16",
+        "LTP": "2979.00",
+        "Symbol": "JSLBB"
+    },
+    {
+        "% Change": "6.87",
+        "LTP": "358.00",
+        "Symbol": "NMB"
+    },
+    {
+        "% Change": "6.80",
+        "LTP": "440.00",
         "Symbol": "CFCL"
     },
     {
-        "% Change": "3.26",
-        "LTP": "1234.00",
-        "Symbol": "NUBL"
+        "% Change": "6.76",
+        "LTP": "1390.00",
+        "Symbol": "ACLBSL"
     },
     {
-        "% Change": "3.22",
-        "LTP": "529.50",
-        "Symbol": "EDBL"
+        "% Change": "6.67",
+        "LTP": "368.00",
+        "Symbol": "PROFL"
     },
     {
-        "% Change": "3.19",
-        "LTP": "1228.00",
-        "Symbol": "DDBL"
+        "% Change": "6.67",
+        "LTP": "368.00",
+        "Symbol": "SADBL"
     },
     {
-        "% Change": "3.12",
-        "LTP": "1651.00",
-        "Symbol": "GILB"
+        "% Change": "6.67",
+        "LTP": "368.00",
+        "Symbol": "SJCL"
     },
     {
-        "% Change": "3.10",
-        "LTP": "233.00",
-        "Symbol": "CCBL"
+        "% Change": "6.54",
+        "LTP": "489.00",
+        "Symbol": "KSBBL"
     },
     {
-        "% Change": "3.07",
-        "LTP": "470.00",
+        "% Change": "6.42",
+        "LTP": "396.00",
+        "Symbol": "KRBL"
+    },
+    {
+        "% Change": "6.30",
+        "LTP": "403.00",
+        "Symbol": "SHINE"
+    },
+    {
+        "% Change": "6.22",
+        "LTP": "427.00",
+        "Symbol": "JBBL"
+    },
+    {
+        "% Change": "6.20",
+        "LTP": "291.00",
+        "Symbol": "BOKL"
+    },
+    {
+        "% Change": "6.17",
+        "LTP": "499.00",
+        "Symbol": "MLBL"
+    },
+    {
+        "% Change": "6.13",
+        "LTP": "329.00",
+        "Symbol": "PRVU"
+    },
+    {
+        "% Change": "5.91",
+        "LTP": "266.90",
+        "Symbol": "KBL"
+    },
+    {
+        "% Change": "5.67",
+        "LTP": "11.75",
+        "Symbol": "NICGF"
+    },
+    {
+        "% Change": "5.66",
+        "LTP": "450.10",
+        "Symbol": "SBL"
+    },
+    {
+        "% Change": "5.50",
+        "LTP": "1439.00",
+        "Symbol": "SABSL"
+    },
+    {
+        "% Change": "5.47",
+        "LTP": "656.00",
+        "Symbol": "JLI"
+    },
+    {
+        "% Change": "5.45",
+        "LTP": "1315.00",
+        "Symbol": "KMCDB"
+    },
+    {
+        "% Change": "5.32",
+        "LTP": "495.00",
         "Symbol": "LBBL"
     },
     {
-        "% Change": "3.00",
-        "LTP": "426.00",
-        "Symbol": "SBL"
+        "% Change": "5.22",
+        "LTP": "564.00",
+        "Symbol": "GBBL"
+    },
+    {
+        "% Change": "5.00",
+        "LTP": "474.80",
+        "Symbol": "RLFL"
+    },
+    {
+        "% Change": "4.99",
+        "LTP": "505.00",
+        "Symbol": "CHCL"
+    },
+    {
+        "% Change": "4.92",
+        "LTP": "279.60",
+        "Symbol": "NCCB"
+    },
+    {
+        "% Change": "4.90",
+        "LTP": "621.00",
+        "Symbol": "GIC"
+    },
+    {
+        "% Change": "4.65",
+        "LTP": "522.00",
+        "Symbol": "NFS"
+    },
+    {
+        "% Change": "4.58",
+        "LTP": "360.80",
+        "Symbol": "PCBL"
+    },
+    {
+        "% Change": "4.50",
+        "LTP": "297.00",
+        "Symbol": "SRBL"
+    },
+    {
+        "% Change": "4.33",
+        "LTP": "243.10",
+        "Symbol": "CCBL"
+    },
+    {
+        "% Change": "4.33",
+        "LTP": "1325.00",
+        "Symbol": "SDLBSL"
+    },
+    {
+        "% Change": "4.26",
+        "LTP": "490.00",
+        "Symbol": "MDB"
+    },
+    {
+        "% Change": "4.22",
+        "LTP": "1917.60",
+        "Symbol": "SMB"
     }
 ]
