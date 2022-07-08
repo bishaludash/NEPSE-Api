@@ -490,39 +490,39 @@
         "Stock Symbol": "CCBL"
     },
     {
-        "Operations": "http://www.nepalstock.com/company/display/2917",
+        "Operations": "http://www.nepalstock.com/company/display/8068",
         "S.N.": "71",
+        "Sector": "Corporate Debenture",
+        "Stock Name": "Century Debenture 2088",
+        "Stock Symbol": "CCBD88"
+    },
+    {
+        "Operations": "http://www.nepalstock.com/company/display/2917",
+        "S.N.": "72",
         "Sector": "Hotels",
         "Stock Name": "Chandragiri Hills Limited",
         "Stock Symbol": "CGH"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/164",
-        "S.N.": "72",
+        "S.N.": "73",
         "Sector": "Microfinance",
         "Stock Name": "Chhimek Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "CBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2766",
-        "S.N.": "73",
+        "S.N.": "74",
         "Sector": "Hydro Power",
         "Stock Name": "Chhyangdi Hydropower Ltd.",
         "Stock Symbol": "CHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/154",
-        "S.N.": "74",
+        "S.N.": "75",
         "Sector": "Hydro Power",
         "Stock Name": "Chilime Hydropower Company Limited",
         "Stock Symbol": "CHCL"
-    },
-    {
-        "Operations": "http://www.nepalstock.com/company/display/348",
-        "S.N.": "75",
-        "Sector": "Commercial Banks",
-        "Stock Name": "Citizen Bank International Limited",
-        "Stock Symbol": "CZBIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/210",
@@ -532,1807 +532,1814 @@
         "Stock Symbol": "CIT"
     },
     {
-        "Operations": "http://www.nepalstock.com/company/display/2780",
+        "Operations": "http://www.nepalstock.com/company/display/348",
         "S.N.": "77",
+        "Sector": "Commercial Banks",
+        "Stock Name": "Citizens Bank International Limited",
+        "Stock Symbol": "CZBIL"
+    },
+    {
+        "Operations": "http://www.nepalstock.com/company/display/2780",
+        "S.N.": "78",
         "Sector": "Mutual Fund",
         "Stock Name": "Citizens Mutual Fund -1",
         "Stock Symbol": "CMF1"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2862",
-        "S.N.": "78",
+        "S.N.": "79",
         "Sector": "Mutual Fund",
         "Stock Name": "CITIZENS MUTUAL FUND 2",
         "Stock Symbol": "CMF2"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/296",
-        "S.N.": "79",
+        "S.N.": "80",
         "Sector": "Finance",
         "Stock Name": "City Express Finance Co. Limited",
         "Stock Symbol": "CEFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/532",
-        "S.N.": "80",
+        "S.N.": "81",
         "Sector": "Commercial Banks",
         "Stock Name": "Civil Bank Ltd",
         "Stock Symbol": "CBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/693",
-        "S.N.": "81",
+        "S.N.": "82",
         "Sector": "Microfinance",
         "Stock Name": "Civil Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "CLBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/450",
-        "S.N.": "82",
+        "S.N.": "83",
         "Sector": "Development Banks",
         "Stock Name": "Corporate Development Bank Limited",
         "Stock Symbol": "CORBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/361",
-        "S.N.": "83",
+        "S.N.": "84",
         "Sector": "Finance",
         "Stock Name": "Crystal Finance Ltd.",
         "Stock Symbol": "CFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8065",
-        "S.N.": "84",
+        "S.N.": "85",
         "Sector": "Microfinance",
         "Stock Name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "CYCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/166",
-        "S.N.": "85",
+        "S.N.": "86",
         "Sector": "Microfinance",
         "Stock Name": "Deprosc Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "DDBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2754",
-        "S.N.": "86",
+        "S.N.": "87",
         "Sector": "Hydro Power",
         "Stock Name": "Dibyashwori Hydropower Ltd.",
         "Stock Symbol": "DHPL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8034",
-        "S.N.": "87",
+        "S.N.": "88",
         "Sector": "Investment",
         "Stock Name": "Emerging Nepal Limited",
         "Stock Symbol": "ENL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/137",
-        "S.N.": "88",
+        "S.N.": "89",
         "Sector": "Commercial Banks",
         "Stock Name": "Everest Bank Limited",
         "Stock Symbol": "EBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/277",
-        "S.N.": "89",
+        "S.N.": "90",
         "Sector": "Preferred Stock",
         "Stock Name": "Everest Bank Limited Con. Pref.",
         "Stock Symbol": "EBLCP"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/181",
-        "S.N.": "90",
+        "S.N.": "91",
         "Sector": "Non Life Insurance",
         "Stock Name": "Everest Insurance Co. Ltd.",
         "Stock Symbol": "EIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/274",
-        "S.N.": "91",
+        "S.N.": "92",
         "Sector": "Development Banks",
         "Stock Name": "Excel Development Bank Ltd.",
         "Stock Symbol": "EDBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/490",
-        "S.N.": "92",
+        "S.N.": "93",
         "Sector": "Microfinance",
         "Stock Name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "FMDBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/228",
-        "S.N.": "93",
+        "S.N.": "94",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Fleur Himalayan Limited",
         "Stock Symbol": "FHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2758",
-        "S.N.": "94",
+        "S.N.": "95",
         "Sector": "Microfinance",
         "Stock Name": "Forward Microfinance Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "FOWAD"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2815",
-        "S.N.": "95",
+        "S.N.": "96",
         "Sector": "Microfinance",
         "Stock Name": "Ganapati Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "GMFBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/420",
-        "S.N.": "96",
+        "S.N.": "97",
         "Sector": "Development Banks",
         "Stock Name": "Gandaki Bikas Bank Limited",
         "Stock Symbol": "GDBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/417",
-        "S.N.": "97",
+        "S.N.": "98",
         "Sector": "Development Banks",
         "Stock Name": "Garima Bikas Bank Limited",
         "Stock Symbol": "GBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8033",
-        "S.N.": "98",
+        "S.N.": "99",
         "Sector": "Corporate Debenture",
         "Stock Name": "Garima Debenture, 2085",
         "Stock Symbol": "GBBD85"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2905",
-        "S.N.": "99",
+        "S.N.": "100",
         "Sector": "Non Life Insurance",
         "Stock Name": "General Insurance Company Nepal Ltd",
         "Stock Symbol": "GIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2806",
-        "S.N.": "100",
+        "S.N.": "101",
         "Sector": "Hydro Power",
         "Stock Name": "Ghalemdi Hydro Limited",
         "Stock Symbol": "GHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2852",
-        "S.N.": "101",
+        "S.N.": "102",
         "Sector": "Microfinance",
         "Stock Name": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "GGBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/341",
-        "S.N.": "102",
+        "S.N.": "103",
         "Sector": "Commercial Banks",
         "Stock Name": "Global IME Bank Limited",
         "Stock Symbol": "GBIME"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8004",
-        "S.N.": "103",
+        "S.N.": "104",
         "Sector": "Corporate Debenture",
         "Stock Name": "Global IME Bank Limited Debenture 2086/87",
         "Stock Symbol": "GBILD86/87"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/705",
-        "S.N.": "104",
+        "S.N.": "105",
         "Sector": "Microfinance",
         "Stock Name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "GILB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/1740",
-        "S.N.": "105",
+        "S.N.": "106",
         "Sector": "Mutual Fund",
         "Stock Name": "Global IME Samunnat Scheme-1",
         "Stock Symbol": "GIMES1"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/232",
-        "S.N.": "106",
+        "S.N.": "107",
         "Sector": "Finance",
         "Stock Name": "Goodwill Finance Limited",
         "Stock Symbol": "GFCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/207",
-        "S.N.": "107",
+        "S.N.": "108",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Gorakhkali Rubber Udhyog Limited",
         "Stock Symbol": "GRU"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/583",
-        "S.N.": "108",
+        "S.N.": "109",
         "Sector": "Microfinance",
         "Stock Name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "GBLBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2744",
-        "S.N.": "109",
+        "S.N.": "110",
         "Sector": "Development Banks",
         "Stock Name": "Green Development Bank Ltd.",
         "Stock Symbol": "GRDBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8045",
-        "S.N.": "110",
+        "S.N.": "111",
         "Sector": "Hydro Power",
         "Stock Name": "Green Ventures Limited",
         "Stock Symbol": "GVL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2924",
-        "S.N.": "111",
+        "S.N.": "112",
         "Sector": "Hydro Power",
         "Stock Name": "GreenLife Hydropower Limited",
         "Stock Symbol": "GLH"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/263",
-        "S.N.": "112",
+        "S.N.": "113",
         "Sector": "Finance",
         "Stock Name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
         "Stock Symbol": "GMFIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2826",
-        "S.N.": "113",
+        "S.N.": "114",
         "Sector": "Microfinance",
         "Stock Name": "Gurans Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "GLBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/447",
-        "S.N.": "114",
+        "S.N.": "115",
         "Sector": "Life Insurance",
         "Stock Name": "Gurans Life Insurance Company Ltd.",
         "Stock Symbol": "GLICL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/204",
-        "S.N.": "115",
+        "S.N.": "116",
         "Sector": "Finance",
         "Stock Name": "Gurkhas Finance Ltd.",
         "Stock Symbol": "GUFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/576",
-        "S.N.": "116",
+        "S.N.": "117",
         "Sector": "Development Banks",
         "Stock Name": "Hamro Bikas Bank Ltd.",
         "Stock Symbol": "HAMRO"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/215",
-        "S.N.": "117",
+        "S.N.": "118",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Harisiddhi Brick And Tiles Limited",
         "Stock Symbol": "HBT"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/421",
-        "S.N.": "118",
+        "S.N.": "119",
         "Sector": "Finance",
         "Stock Name": "Hathway Finance Company Limited",
         "Stock Symbol": "HATH"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2880",
-        "S.N.": "119",
+        "S.N.": "120",
         "Sector": "Hydro Power",
         "Stock Name": "Himal Dolakha Hydropower Company Limited",
         "Stock Symbol": "HDHPC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2824",
-        "S.N.": "120",
+        "S.N.": "121",
         "Sector": "Hydro Power",
         "Stock Name": "Himalaya Urja Bikas Company Limited",
         "Stock Symbol": "HURJA"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/134",
-        "S.N.": "121",
+        "S.N.": "122",
         "Sector": "Commercial Banks",
         "Stock Name": "Himalayan Bank Limited",
         "Stock Symbol": "HBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/235",
-        "S.N.": "122",
+        "S.N.": "123",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Himalayan Distillery Limited",
         "Stock Symbol": "HDL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/441",
-        "S.N.": "123",
+        "S.N.": "124",
         "Sector": "Finance",
         "Stock Name": "Himalayan Finance Limited (Bittiya Sanstha)",
         "Stock Symbol": "HFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/179",
-        "S.N.": "124",
+        "S.N.": "125",
         "Sector": "Non Life Insurance",
         "Stock Name": "Himalayan General Insurance Co. Ltd",
         "Stock Symbol": "HGI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2767",
-        "S.N.": "125",
+        "S.N.": "126",
         "Sector": "Hydro Power",
         "Stock Name": "Himalayan Power Partner Ltd.",
         "Stock Symbol": "HPPL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2742",
-        "S.N.": "126",
+        "S.N.": "127",
         "Sector": "Investment",
         "Stock Name": "Hydorelectricity Investment and Development Company Ltd",
         "Stock Symbol": "HIDCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/273",
-        "S.N.": "127",
+        "S.N.": "128",
         "Sector": "Finance",
         "Stock Name": "ICFC Finance Limited",
         "Stock Symbol": "ICFC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/186",
-        "S.N.": "128",
+        "S.N.": "129",
         "Sector": "Non Life Insurance",
         "Stock Name": "IME General Insurance Ltd.",
         "Stock Symbol": "IGI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2832",
-        "S.N.": "129",
+        "S.N.": "130",
         "Sector": "Microfinance",
         "Stock Name": "Infinity Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "ILBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8038",
-        "S.N.": "130",
+        "S.N.": "131",
         "Sector": "Microfinance",
         "Stock Name": "Jalpa Samudayik Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "JALPA"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/250",
-        "S.N.": "131",
+        "S.N.": "132",
         "Sector": "Finance",
         "Stock Name": "Janaki Finance Company Limited",
         "Stock Symbol": "JFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/496",
-        "S.N.": "132",
+        "S.N.": "133",
         "Sector": "Commercial Banks",
         "Stock Name": "Janata Bank Nepal Ltd.",
         "Stock Symbol": "JBNL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/695",
-        "S.N.": "133",
+        "S.N.": "134",
         "Sector": "Microfinance",
         "Stock Name": "Janautthan Samudayic Laghubitta Bittya Sanstha Limited",
         "Stock Symbol": "JSLBB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4951",
-        "S.N.": "134",
+        "S.N.": "135",
         "Sector": "Microfinance",
         "Stock Name": "Jeevan Bikas Laghubitta Bittya Sanstha Ltd",
         "Stock Symbol": "JBLB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2789",
-        "S.N.": "135",
+        "S.N.": "136",
         "Sector": "Hydro Power",
         "Stock Name": "Joshi Hydropower Development Company Ltd",
         "Stock Symbol": "JOSHI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/418",
-        "S.N.": "136",
+        "S.N.": "137",
         "Sector": "Development Banks",
         "Stock Name": "Jyoti Bikas Bank Limited",
         "Stock Symbol": "JBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8020",
-        "S.N.": "137",
+        "S.N.": "138",
         "Sector": "Corporate Debenture",
         "Stock Name": "Jyoti Bikash Bank Bond 2087",
         "Stock Symbol": "JBBD87"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2929",
-        "S.N.": "138",
+        "S.N.": "139",
         "Sector": "Life Insurance",
         "Stock Name": "Jyoti Life Insurance Company Limited",
         "Stock Symbol": "JLI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/209",
-        "S.N.": "139",
+        "S.N.": "140",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Jyoti Sinning Mills Limited",
         "Stock Symbol": "JSM"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/593",
-        "S.N.": "140",
+        "S.N.": "141",
         "Sector": "Microfinance",
         "Stock Name": "Kalika Laghubitta Bittiya Sanstha Ltd",
         "Stock Symbol": "KMCDB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2787",
-        "S.N.": "141",
+        "S.N.": "142",
         "Sector": "Hydro Power",
         "Stock Name": "Kalika power Company Ltd",
         "Stock Symbol": "KPCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/459",
-        "S.N.": "142",
+        "S.N.": "143",
         "Sector": "Development Banks",
         "Stock Name": "Kamana Sewa Bikas Bank Limited",
         "Stock Symbol": "KSBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/419",
-        "S.N.": "143",
+        "S.N.": "144",
         "Sector": "Development Banks",
         "Stock Name": "Kankai Bikas Bank Ltd.",
         "Stock Symbol": "KNBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/428",
-        "S.N.": "144",
+        "S.N.": "145",
         "Sector": "Development Banks",
         "Stock Name": "Karnali Development Bank Limited",
         "Stock Symbol": "KRBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2751",
-        "S.N.": "145",
+        "S.N.": "146",
         "Sector": "Hydro Power",
         "Stock Name": "Khanikhola Hydropower Co. Ltd.",
         "Stock Symbol": "KKHC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/694",
-        "S.N.": "146",
+        "S.N.": "147",
         "Sector": "Microfinance",
         "Stock Name": "Kisan Lagubitta Bittiya Sanstha Limited",
         "Stock Symbol": "KLBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/142",
-        "S.N.": "147",
+        "S.N.": "148",
         "Sector": "Commercial Banks",
         "Stock Name": "Kumari Bank Limited",
         "Stock Symbol": "KBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2933",
-        "S.N.": "148",
+        "S.N.": "149",
         "Sector": "Mutual Fund",
         "Stock Name": "Kumari Equity Fund",
         "Stock Symbol": "KEF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/231",
-        "S.N.": "149",
+        "S.N.": "150",
         "Sector": "Finance",
         "Stock Name": "Lalitpur Finance Ltd.",
         "Stock Symbol": "LFC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/141",
-        "S.N.": "150",
+        "S.N.": "151",
         "Sector": "Commercial Banks",
         "Stock Name": "Laxmi Bank Limited",
         "Stock Symbol": "LBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2765",
-        "S.N.": "151",
+        "S.N.": "152",
         "Sector": "Mutual Fund",
         "Stock Name": "Laxmi Equity Fund",
         "Stock Symbol": "LEMF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/618",
-        "S.N.": "152",
+        "S.N.": "153",
         "Sector": "Microfinance",
         "Stock Name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "LLBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2902",
-        "S.N.": "153",
+        "S.N.": "154",
         "Sector": "Mutual Fund",
         "Stock Name": "Laxmi Unnati Kosh",
         "Stock Symbol": "LUK"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2903",
-        "S.N.": "154",
+        "S.N.": "155",
         "Sector": "Hydro Power",
         "Stock Name": "Liberty Energy Company Limited",
         "Stock Symbol": "LEC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/188",
-        "S.N.": "155",
+        "S.N.": "156",
         "Sector": "Life Insurance",
         "Stock Name": "Life Insurance Corporation (Nepal) Limited",
         "Stock Symbol": "LICN"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/358",
-        "S.N.": "156",
+        "S.N.": "157",
         "Sector": "Development Banks",
         "Stock Name": "Lumbini Bikas Bank Ltd.",
         "Stock Symbol": "LBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/190",
-        "S.N.": "157",
+        "S.N.": "158",
         "Sector": "Non Life Insurance",
         "Stock Name": "Lumbini General Insurance Co. Ltd.",
         "Stock Symbol": "LGIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/140",
-        "S.N.": "158",
+        "S.N.": "159",
         "Sector": "Commercial Banks",
         "Stock Name": "Machhapuchhre Bank Limited",
         "Stock Symbol": "MBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8031",
-        "S.N.": "159",
+        "S.N.": "160",
         "Sector": "Hydro Power",
         "Stock Name": "Madhya Bhotekoshi Jalavidyut Company Limited",
         "Stock Symbol": "MBJC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/401",
-        "S.N.": "160",
+        "S.N.": "161",
         "Sector": "Development Banks",
         "Stock Name": "Mahalaxmi Bikas Bank Ltd.",
         "Stock Symbol": "MLBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2925",
-        "S.N.": "161",
+        "S.N.": "162",
         "Sector": "Microfinance",
         "Stock Name": "Mahila Lagubitta Bittiya Sanstha Limited",
         "Stock Symbol": "MLBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/691",
-        "S.N.": "162",
+        "S.N.": "163",
         "Sector": "Microfinance",
         "Stock Name": "Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.",
         "Stock Symbol": "MSMBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2768",
-        "S.N.": "163",
+        "S.N.": "164",
         "Sector": "Microfinance",
         "Stock Name": "Mahuli Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "MSLB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8005",
-        "S.N.": "164",
+        "S.N.": "165",
         "Sector": "Hydro Power",
         "Stock Name": "Mailung Khola Jal Vidhyut Company Limited",
         "Stock Symbol": "MKJC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4955",
-        "S.N.": "165",
+        "S.N.": "166",
         "Sector": "Microfinance",
         "Stock Name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "MKLB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/516",
-        "S.N.": "166",
+        "S.N.": "167",
         "Sector": "Finance",
         "Stock Name": "Manjushree Finance Ltd.",
         "Stock Symbol": "MFIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8018",
-        "S.N.": "167",
+        "S.N.": "168",
         "Sector": "Microfinance",
         "Stock Name": "Manushi Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "MLBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/562",
-        "S.N.": "168",
+        "S.N.": "169",
         "Sector": "Commercial Banks",
         "Stock Name": "Mega Bank Nepal Ltd.",
         "Stock Symbol": "MEGA"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8023",
-        "S.N.": "169",
+        "S.N.": "170",
         "Sector": "Mutual Fund",
         "Stock Name": "Mega Mutual Fund -1",
         "Stock Symbol": "MMF1"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/1741",
-        "S.N.": "170",
+        "S.N.": "171",
         "Sector": "Microfinance",
         "Stock Name": "Mero Microfinance Bittiya Sanstha Ltd.",
         "Stock Symbol": "MERO"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/682",
-        "S.N.": "171",
+        "S.N.": "172",
         "Sector": "Microfinance",
         "Stock Name": "Mirmire Microfinance Development Bank Ltd.",
         "Stock Symbol": "MMFDB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/371",
-        "S.N.": "172",
+        "S.N.": "173",
         "Sector": "Development Banks",
         "Stock Name": "Miteri Development Bank Limited",
         "Stock Symbol": "MDB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/601",
-        "S.N.": "173",
+        "S.N.": "174",
         "Sector": "Microfinance",
         "Stock Name": "Mithila LaghuBitta Bittiya Sanstha Limited",
         "Stock Symbol": "MLBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2913",
-        "S.N.": "174",
+        "S.N.": "175",
         "Sector": "Hydro Power",
         "Stock Name": "Mountain Energy Nepal Limited",
         "Stock Symbol": "MEN"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2811",
-        "S.N.": "175",
+        "S.N.": "176",
         "Sector": "Hydro Power",
         "Stock Name": "Mountain Hydro Nepal Limited",
         "Stock Symbol": "MHNL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/474",
-        "S.N.": "176",
+        "S.N.": "177",
         "Sector": "Development Banks",
         "Stock Name": "Muktinath Bikas Bank Ltd.",
         "Stock Symbol": "MNBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4969",
-        "S.N.": "177",
+        "S.N.": "178",
         "Sector": "Corporate Debenture",
         "Stock Name": "Muktinath Debenture 2084/85",
         "Stock Symbol": "MND84/85"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/471",
-        "S.N.": "178",
+        "S.N.": "179",
         "Sector": "Finance",
         "Stock Name": "Multipurpose Finance Company Limited",
         "Stock Symbol": "MPFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2835",
-        "S.N.": "179",
+        "S.N.": "180",
         "Sector": "Mutual Fund",
         "Stock Name": "NABIL BALANCED FUND-2",
         "Stock Symbol": "NBF2"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8024",
-        "S.N.": "180",
+        "S.N.": "181",
         "Sector": "Mutual Fund",
         "Stock Name": "Nabil Balanced Fund-3",
         "Stock Symbol": "NBF3"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/131",
-        "S.N.": "181",
+        "S.N.": "182",
         "Sector": "Commercial Banks",
         "Stock Name": "Nabil Bank Limited",
         "Stock Symbol": "NABIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8027",
-        "S.N.": "182",
+        "S.N.": "183",
         "Sector": "Corporate Debenture",
         "Stock Name": "Nabil Debenture 2085",
         "Stock Symbol": "NBLD85"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2753",
-        "S.N.": "183",
+        "S.N.": "184",
         "Sector": "Mutual Fund",
         "Stock Name": "Nabil Equity Fund",
         "Stock Symbol": "NEF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2784",
-        "S.N.": "184",
+        "S.N.": "185",
         "Sector": "Microfinance",
         "Stock Name": "Nadep Laghubittiya bittya Sanstha Ltd.",
         "Stock Symbol": "NADEP"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/172",
-        "S.N.": "185",
+        "S.N.": "186",
         "Sector": "Development Banks",
         "Stock Name": "Narayani Development Bank Limited",
         "Stock Symbol": "NABBC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/152",
-        "S.N.": "186",
+        "S.N.": "187",
         "Sector": "Hydro Power",
         "Stock Name": "National Hydro Power Company Limited",
         "Stock Symbol": "NHPC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/178",
-        "S.N.": "187",
+        "S.N.": "188",
         "Sector": "Life Insurance",
         "Stock Name": "National Life Insurance Co. Ltd.",
         "Stock Symbol": "NLICL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2746",
-        "S.N.": "188",
+        "S.N.": "189",
         "Sector": "Microfinance",
         "Stock Name": "National Microfinance Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "NMFBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/592",
-        "S.N.": "189",
+        "S.N.": "190",
         "Sector": "Microfinance",
         "Stock Name": "Naya Sarathi Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "NSLB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/183",
-        "S.N.": "190",
+        "S.N.": "191",
         "Sector": "Non Life Insurance",
         "Stock Name": "Neco Insurance Limited",
         "Stock Symbol": "NIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2816",
-        "S.N.": "191",
+        "S.N.": "192",
         "Sector": "Microfinance",
         "Stock Name": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "NAGRO"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/136",
-        "S.N.": "192",
+        "S.N.": "193",
         "Sector": "Commercial Banks",
         "Stock Name": "Nepal Bangladesh Bank Limited",
         "Stock Symbol": "NBB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/517",
-        "S.N.": "193",
+        "S.N.": "194",
         "Sector": "Commercial Banks",
         "Stock Name": "Nepal Bank Limited",
         "Stock Symbol": "NBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/233",
-        "S.N.": "194",
+        "S.N.": "195",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Nepal Bitumin And Barrel Udhyog Limited",
         "Stock Symbol": "NBBU"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/144",
-        "S.N.": "195",
+        "S.N.": "196",
         "Sector": "Commercial Banks",
         "Stock Name": "Nepal Credit And Commercial Bank Limited",
         "Stock Symbol": "NCCB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/307",
-        "S.N.": "196",
+        "S.N.": "197",
         "Sector": "Others",
         "Stock Name": "Nepal Doorsanchar Company Limited",
         "Stock Symbol": "NTC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/151",
-        "S.N.": "197",
+        "S.N.": "198",
         "Sector": "Others",
         "Stock Name": "Nepal Film Development Company Limited",
         "Stock Symbol": "NFD"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/194",
-        "S.N.": "198",
+        "S.N.": "199",
         "Sector": "Finance",
         "Stock Name": "Nepal Finance Ltd.",
         "Stock Symbol": "NFS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2769",
-        "S.N.": "199",
+        "S.N.": "200",
         "Sector": "Hydro Power",
         "Stock Name": "Nepal Hydro Developers Ltd.",
         "Stock Symbol": "NHDL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2919",
-        "S.N.": "200",
+        "S.N.": "201",
         "Sector": "Investment",
         "Stock Name": "Nepal Infrastructure Bank Limited",
         "Stock Symbol": "NIFRA"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/176",
-        "S.N.": "201",
+        "S.N.": "202",
         "Sector": "Non Life Insurance",
         "Stock Name": "Nepal Insurance Co. Ltd.",
         "Stock Symbol": "NICL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/132",
-        "S.N.": "202",
+        "S.N.": "203",
         "Sector": "Commercial Banks",
         "Stock Name": "Nepal Investment Bank Limited",
         "Stock Symbol": "NIB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/222",
-        "S.N.": "203",
+        "S.N.": "204",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Nepal Khadya Udhyog Limited",
         "Stock Symbol": "NKU"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/187",
-        "S.N.": "204",
+        "S.N.": "205",
         "Sector": "Life Insurance",
         "Stock Name": "Nepal Life Insurance Co. Ltd.",
         "Stock Symbol": "NLIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/198",
-        "S.N.": "205",
+        "S.N.": "206",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Nepal Lube Oil Limited",
         "Stock Symbol": "NLO"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2881",
-        "S.N.": "206",
+        "S.N.": "207",
         "Sector": "Others",
         "Stock Name": "Nepal Reinsurance Company Limited",
         "Stock Symbol": "NRIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/135",
-        "S.N.": "207",
+        "S.N.": "208",
         "Sector": "Commercial Banks",
         "Stock Name": "Nepal SBI Bank Limited",
         "Stock Symbol": "SBI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/200",
-        "S.N.": "208",
+        "S.N.": "209",
         "Sector": "Finance",
         "Stock Name": "Nepal Share Markets Ltd.",
         "Stock Symbol": "NSM"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/158",
-        "S.N.": "209",
+        "S.N.": "210",
         "Sector": "Tradings",
         "Stock Name": "Nepal Tading Limited",
         "Stock Symbol": "NTL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/201",
-        "S.N.": "210",
+        "S.N.": "211",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Nepal Vanaspati Ghee Udhyog Limited",
         "Stock Symbol": "NVG"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/159",
-        "S.N.": "211",
+        "S.N.": "212",
         "Sector": "Tradings",
         "Stock Name": "Nepal Welfare Company Limited",
         "Stock Symbol": "NWC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/396",
-        "S.N.": "212",
+        "S.N.": "213",
         "Sector": "Microfinance",
         "Stock Name": "Nerude Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "NLBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8041",
-        "S.N.": "213",
+        "S.N.": "214",
         "Sector": "Microfinance",
         "Stock Name": "NESDO Sambridha Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "NESDO"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2743",
-        "S.N.": "214",
+        "S.N.": "215",
         "Sector": "Hydro Power",
         "Stock Name": "Ngadi Group Power Ltd.",
         "Stock Symbol": "NGPL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2755",
-        "S.N.": "215",
+        "S.N.": "216",
         "Sector": "Mutual Fund",
         "Stock Name": "NIBL Pragati Fund",
         "Stock Symbol": "NIBLPF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4949",
-        "S.N.": "216",
+        "S.N.": "217",
         "Sector": "Mutual Fund",
         "Stock Name": "NIBL Samriddhi Fund -2",
         "Stock Symbol": "NIBSF2"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2863",
-        "S.N.": "217",
+        "S.N.": "218",
         "Sector": "Mutual Fund",
         "Stock Name": "NIC Asia Balanced Fund",
         "Stock Symbol": "NICBF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/139",
-        "S.N.": "218",
+        "S.N.": "219",
         "Sector": "Commercial Banks",
         "Stock Name": "NIC Asia Bank Ltd.",
         "Stock Symbol": "NICA"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2779",
-        "S.N.": "219",
+        "S.N.": "220",
         "Sector": "Mutual Fund",
         "Stock Name": "NIC Asia Growth Fund",
         "Stock Symbol": "NICGF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2887",
-        "S.N.": "220",
+        "S.N.": "221",
         "Sector": "Microfinance",
         "Stock Name": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "NICLBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/7986",
-        "S.N.": "221",
+        "S.N.": "222",
         "Sector": "Corporate Debenture",
         "Stock Name": "NIC ASIA Rinpatra 2088",
         "Stock Symbol": "NICD88"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4967",
-        "S.N.": "222",
+        "S.N.": "223",
         "Sector": "Mutual Fund",
         "Stock Name": "NIC Asia Select Fund 30",
         "Stock Symbol": "NICSF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/160",
-        "S.N.": "223",
+        "S.N.": "224",
         "Sector": "Development Banks",
         "Stock Name": "NIDC Development Bank Ltd.",
         "Stock Symbol": "NIDC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/163",
-        "S.N.": "224",
+        "S.N.": "225",
         "Sector": "Microfinance",
         "Stock Name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "NUBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/559",
-        "S.N.": "225",
+        "S.N.": "226",
         "Sector": "Non Life Insurance",
         "Stock Name": "NLG Insurance Company Ltd.",
         "Stock Symbol": "NLG"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/704",
-        "S.N.": "226",
+        "S.N.": "227",
         "Sector": "Microfinance",
         "Stock Name": "NMB Microfinance Bittiya Sanstha Ltd.",
         "Stock Symbol": "NMBMF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2867",
-        "S.N.": "227",
+        "S.N.": "228",
         "Sector": "Mutual Fund",
         "Stock Name": "NMB 50",
         "Stock Symbol": "NMB50"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/238",
-        "S.N.": "228",
+        "S.N.": "229",
         "Sector": "Commercial Banks",
         "Stock Name": "NMB Bank Limited",
         "Stock Symbol": "NMB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4963",
-        "S.N.": "229",
+        "S.N.": "230",
         "Sector": "Corporate Debenture",
         "Stock Name": "NMB Debenture 8.50% - 2087/88",
         "Stock Symbol": "NMBD87/88"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4964",
-        "S.N.": "230",
+        "S.N.": "231",
         "Sector": "Corporate Debenture",
         "Stock Name": "NMB Energy Bond 4% - 2092/93",
         "Stock Symbol": "NMBEB92/93"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2752",
-        "S.N.": "231",
+        "S.N.": "232",
         "Sector": "Mutual Fund",
         "Stock Name": "NMB Hybrid Fund L-1",
         "Stock Symbol": "NMBHF1"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2898",
-        "S.N.": "232",
+        "S.N.": "233",
         "Sector": "Investment",
         "Stock Name": "NRN Infrastructure and Development Limited",
         "Stock Symbol": "NRN"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8026",
-        "S.N.": "233",
+        "S.N.": "234",
         "Sector": "Hydro Power",
         "Stock Name": "Nyadi Hydropower Limited",
         "Stock Symbol": "NYADI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/398",
-        "S.N.": "234",
+        "S.N.": "235",
         "Sector": "Development Banks",
         "Stock Name": "Om Development Bank Ltd.",
         "Stock Symbol": "ODBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/149",
-        "S.N.": "235",
+        "S.N.": "236",
         "Sector": "Hotels",
         "Stock Name": "Oriental Hotels Limited",
         "Stock Symbol": "OHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2786",
-        "S.N.": "236",
+        "S.N.": "237",
         "Sector": "Hydro Power",
         "Stock Name": "Panchakanya Mai Hydropower Ltd",
         "Stock Symbol": "PMHPL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2813",
-        "S.N.": "237",
+        "S.N.": "238",
         "Sector": "Hydro Power",
         "Stock Name": "Panchthar Power Compant Limited",
         "Stock Symbol": "PPCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/236",
-        "S.N.": "238",
+        "S.N.": "239",
         "Sector": "Finance",
         "Stock Name": "Pokhara Finance Ltd.",
         "Stock Symbol": "PFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/255",
-        "S.N.": "239",
+        "S.N.": "240",
         "Sector": "Commercial Banks",
         "Stock Name": "Prabhu Bank Limited",
         "Stock Symbol": "PRVU"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/184",
-        "S.N.": "240",
+        "S.N.": "241",
         "Sector": "Non Life Insurance",
         "Stock Name": "Prabhu Insurance Ltd.",
         "Stock Symbol": "PRIN"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2915",
-        "S.N.": "241",
+        "S.N.": "242",
         "Sector": "Life Insurance",
         "Stock Name": "Prabhu Life Insurance Limited",
         "Stock Symbol": "PLI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4947",
-        "S.N.": "242",
+        "S.N.": "243",
         "Sector": "Mutual Fund",
         "Stock Name": "Prabhu Select Fund",
         "Stock Symbol": "PSF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/182",
-        "S.N.": "243",
+        "S.N.": "244",
         "Sector": "Non Life Insurance",
         "Stock Name": "Premier Insurance Company (Nepal) Limited",
         "Stock Symbol": "PIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/357",
-        "S.N.": "244",
+        "S.N.": "245",
         "Sector": "Commercial Banks",
         "Stock Name": "Prime Commercial Bank Ltd.",
         "Stock Symbol": "PCBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/393",
-        "S.N.": "245",
+        "S.N.": "246",
         "Sector": "Life Insurance",
         "Stock Name": "Prime Life Insurance Company Limited",
         "Stock Symbol": "PLIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/338",
-        "S.N.": "246",
+        "S.N.": "247",
         "Sector": "Finance",
         "Stock Name": "Progressive Finance Limited",
         "Stock Symbol": "PROFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/189",
-        "S.N.": "247",
+        "S.N.": "248",
         "Sector": "Non Life Insurance",
         "Stock Name": "Prudential Insurance Co. Ltd.",
         "Stock Symbol": "PICL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2776",
-        "S.N.": "248",
+        "S.N.": "249",
         "Sector": "Hydro Power",
         "Stock Name": "Radhi Bidyut Company Ltd",
         "Stock Symbol": "RADHI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/203",
-        "S.N.": "249",
+        "S.N.": "250",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Raghupati Jute Mills Limited",
         "Stock Symbol": "RJM"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2783",
-        "S.N.": "250",
+        "S.N.": "251",
         "Sector": "Hydro Power",
         "Stock Name": "Rairang Hydropower Development Company Ltd.",
         "Stock Symbol": "RRHP"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8036",
-        "S.N.": "251",
+        "S.N.": "252",
         "Sector": "Microfinance",
         "Stock Name": "Rastra Utthan Laghubitta Sanstha Limited",
         "Stock Symbol": "RULB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/177",
-        "S.N.": "252",
+        "S.N.": "253",
         "Sector": "Non Life Insurance",
         "Stock Name": "Rastriya Beema Company Limited",
         "Stock Symbol": "RBCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2841",
-        "S.N.": "253",
+        "S.N.": "254",
         "Sector": "Hydro Power",
         "Stock Name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
         "Stock Symbol": "RHPL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4968",
-        "S.N.": "254",
+        "S.N.": "255",
         "Sector": "Mutual Fund",
         "Stock Name": "RBB Mutual Fund 1",
         "Stock Symbol": "RMF1"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/587",
-        "S.N.": "255",
+        "S.N.": "256",
         "Sector": "Finance",
         "Stock Name": "Reliance Finance Ltd.",
         "Stock Symbol": "RLFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2900",
-        "S.N.": "256",
+        "S.N.": "257",
         "Sector": "Life Insurance",
         "Stock Name": "Reliance Life Insurance Limited",
         "Stock Symbol": "RLI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/610",
-        "S.N.": "257",
+        "S.N.": "258",
         "Sector": "Hydro Power",
         "Stock Name": "Ridi Hydropower Development Company Ltd.",
         "Stock Symbol": "RHPC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8066",
-        "S.N.": "258",
+        "S.N.": "259",
         "Sector": "Hydro Power",
         "Stock Name": "River Falls Power Limited",
         "Stock Symbol": "RFPL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/575",
-        "S.N.": "259",
+        "S.N.": "260",
         "Sector": "Microfinance",
         "Stock Name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "RMDC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2748",
-        "S.N.": "260",
+        "S.N.": "261",
         "Sector": "Microfinance",
         "Stock Name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "RSDC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2935",
-        "S.N.": "261",
+        "S.N.": "262",
         "Sector": "Hydro Power",
         "Stock Name": "Ru Ru Jalbidhyut Pariyojana Limited",
         "Stock Symbol": "RURU"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2843",
-        "S.N.": "262",
+        "S.N.": "263",
         "Sector": "Microfinance",
         "Stock Name": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
         "Stock Symbol": "SABSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2896",
-        "S.N.": "263",
+        "S.N.": "264",
         "Sector": "Microfinance",
         "Stock Name": "Sadhana Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SDLBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/185",
-        "S.N.": "264",
+        "S.N.": "265",
         "Sector": "Non Life Insurance",
         "Stock Name": "Sagarmatha Insurance Co. Ltd.",
         "Stock Symbol": "SIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/625",
-        "S.N.": "265",
+        "S.N.": "266",
         "Sector": "Development Banks",
         "Stock Name": "Sahara Bikas Bank Ltd.",
         "Stock Symbol": "SHBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8021",
-        "S.N.": "266",
+        "S.N.": "267",
         "Sector": "Hydro Power",
         "Stock Name": "Sahas Urja Limited",
         "Stock Symbol": "SAHAS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/174",
-        "S.N.": "267",
+        "S.N.": "268",
         "Sector": "Development Banks",
         "Stock Name": "Sahayogi Bikas Bank Limited",
         "Stock Symbol": "SBBLJ"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/155",
-        "S.N.": "268",
+        "S.N.": "269",
         "Sector": "Tradings",
         "Stock Name": "Salt Trading Corporation",
         "Stock Symbol": "STC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4965",
-        "S.N.": "269",
+        "S.N.": "270",
         "Sector": "Microfinance",
         "Stock Name": "Samaj Laghubittya Bittiya Sanstha Limited",
         "Stock Symbol": "SAMAJ"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2761",
-        "S.N.": "270",
+        "S.N.": "271",
         "Sector": "Microfinance",
         "Stock Name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SMATA"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/221",
-        "S.N.": "271",
+        "S.N.": "272",
         "Sector": "Finance",
         "Stock Name": "Samjhana Finance Co. Ltd.",
         "Stock Symbol": "SFC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8025",
-        "S.N.": "272",
+        "S.N.": "273",
         "Sector": "Hydro Power",
         "Stock Name": "Samling Power Company Limited",
         "Stock Symbol": "SPC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/256",
-        "S.N.": "273",
+        "S.N.": "274",
         "Sector": "Finance",
         "Stock Name": "Samriddhi Finance Company Limited",
         "Stock Symbol": "SFCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2804",
-        "S.N.": "274",
+        "S.N.": "275",
         "Sector": "Microfinance",
         "Stock Name": "Samudayik Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SLBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/574",
-        "S.N.": "275",
+        "S.N.": "276",
         "Sector": "Microfinance",
         "Stock Name": "Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SKBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/171",
-        "S.N.": "276",
+        "S.N.": "277",
         "Sector": "Commercial Banks",
         "Stock Name": "Sanima Bank Limited",
         "Stock Symbol": "SANIMA"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2773",
-        "S.N.": "277",
+        "S.N.": "278",
         "Sector": "Mutual Fund",
         "Stock Name": "Sanima Equity Fund",
         "Stock Symbol": "SAEF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2908",
-        "S.N.": "278",
+        "S.N.": "279",
         "Sector": "Non Life Insurance",
         "Stock Name": "Sanima General Insurance Limited",
         "Stock Symbol": "SGI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2923",
-        "S.N.": "279",
+        "S.N.": "280",
         "Sector": "Mutual Fund",
         "Stock Name": "Sanima Large Cap Fund",
         "Stock Symbol": "SLCF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/5982",
-        "S.N.": "280",
+        "S.N.": "281",
         "Sector": "Life Insurance",
         "Stock Name": "Sanima Life Insurance Limited",
         "Stock Symbol": "SLI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/591",
-        "S.N.": "281",
+        "S.N.": "282",
         "Sector": "Hydro Power",
         "Stock Name": "Sanima Mai Hydropower Ltd.",
         "Stock Symbol": "SHPC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2842",
-        "S.N.": "282",
+        "S.N.": "283",
         "Sector": "Hydro Power",
         "Stock Name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
         "Stock Symbol": "SJCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2860",
-        "S.N.": "283",
+        "S.N.": "284",
         "Sector": "Development Banks",
         "Stock Name": "Saptakoshi Development Bank Ltd",
         "Stock Symbol": "SAPDBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/6985",
-        "S.N.": "284",
+        "S.N.": "285",
         "Sector": "Corporate Debenture",
         "Stock Name": "Shangri-la Development Bank Debenture 2087",
         "Stock Symbol": "SDBD87"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/472",
-        "S.N.": "285",
+        "S.N.": "286",
         "Sector": "Development Banks",
         "Stock Name": "Shangrila Development Bank Ltd.",
         "Stock Symbol": "SADBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/192",
-        "S.N.": "286",
+        "S.N.": "287",
         "Sector": "Non Life Insurance",
         "Stock Name": "Shikhar Insurance Co. Ltd.",
         "Stock Symbol": "SICL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/473",
-        "S.N.": "287",
+        "S.N.": "288",
         "Sector": "Development Banks",
         "Stock Name": "Shine Resunga Development Bank Ltd.",
         "Stock Symbol": "SHINE"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2907",
-        "S.N.": "288",
+        "S.N.": "289",
         "Sector": "Hydro Power",
         "Stock Name": "Shiva Shree Hydropower Ltd",
         "Stock Symbol": "SSHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2809",
-        "S.N.": "289",
+        "S.N.": "290",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "SHIVAM CEMENTS LTD",
         "Stock Symbol": "SHIVM"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/226",
-        "S.N.": "290",
+        "S.N.": "291",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Shree Bhrikuti Pulp And Paper Limited",
         "Stock Symbol": "SBPP"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/244",
-        "S.N.": "291",
+        "S.N.": "292",
         "Sector": "Finance",
         "Stock Name": "Shree Investment Finance Co. Ltd.",
         "Stock Symbol": "SIFC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/230",
-        "S.N.": "292",
+        "S.N.": "293",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Shree Ram Sugar Mills Limited",
         "Stock Symbol": "SRS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/261",
-        "S.N.": "293",
+        "S.N.": "294",
         "Sector": "Finance",
         "Stock Name": "Shrijana Finance (Bittaya Sanstha)",
         "Stock Symbol": "SFFIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/145",
-        "S.N.": "294",
+        "S.N.": "295",
         "Sector": "Commercial Banks",
         "Stock Name": "Siddhartha Bank Limited",
         "Stock Symbol": "SBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2770",
-        "S.N.": "295",
+        "S.N.": "296",
         "Sector": "Mutual Fund",
         "Stock Name": "Siddhartha Equity Fund",
         "Stock Symbol": "SEF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/616",
-        "S.N.": "296",
+        "S.N.": "297",
         "Sector": "Mutual Fund",
         "Stock Name": "Siddhartha Equity Orineted Scheme",
         "Stock Symbol": "SEOS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/280",
-        "S.N.": "297",
+        "S.N.": "298",
         "Sector": "Non Life Insurance",
         "Stock Name": "Siddhartha Insurance Ltd.",
         "Stock Symbol": "SIL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2859",
-        "S.N.": "298",
+        "S.N.": "299",
         "Sector": "Mutual Fund",
         "Stock Name": "Siddhartha Investment Growth Scheme - 2",
         "Stock Symbol": "SIGS2"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/561",
-        "S.N.": "299",
+        "S.N.": "300",
         "Sector": "Development Banks",
         "Stock Name": "Sindhu Bikash Bank Ltd",
         "Stock Symbol": "SINDU"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2934",
-        "S.N.": "300",
+        "S.N.": "301",
         "Sector": "Hydro Power",
         "Stock Name": "Singati Hydro Energy Limited",
         "Stock Symbol": "SHEL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/147",
-        "S.N.": "301",
+        "S.N.": "302",
         "Sector": "Hotels",
         "Stock Name": "Soaltee Hotel Limited",
         "Stock Symbol": "SHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2812",
-        "S.N.": "302",
+        "S.N.": "303",
         "Sector": "Microfinance",
         "Stock Name": "Sparsha Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SPARS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/133",
-        "S.N.": "303",
+        "S.N.": "304",
         "Sector": "Commercial Banks",
         "Stock Name": "Standard Chartered Bank Limited",
         "Stock Symbol": "SCB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/502",
-        "S.N.": "304",
+        "S.N.": "305",
         "Sector": "Microfinance",
         "Stock Name": "Summit Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SMFDB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/359",
-        "S.N.": "305",
+        "S.N.": "306",
         "Sector": "Commercial Banks",
         "Stock Name": "Sunrise Bank Limited",
         "Stock Symbol": "SRBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2937",
-        "S.N.": "306",
+        "S.N.": "307",
         "Sector": "Mutual Fund",
         "Stock Name": "Sunrise Bluechip Fund",
         "Stock Symbol": "SBCF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2877",
-        "S.N.": "307",
+        "S.N.": "308",
         "Sector": "Mutual Fund",
         "Stock Name": "Sunrise First Mutual Fund",
         "Stock Symbol": "SFMF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2771",
-        "S.N.": "308",
+        "S.N.": "309",
         "Sector": "Microfinance",
         "Stock Name": "Support Microfinance Bittiya Sanstha Ltd.",
         "Stock Symbol": "SMB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/403",
-        "S.N.": "309",
+        "S.N.": "310",
         "Sector": "Life Insurance",
         "Stock Name": "Surya Life Insurance Company Limited",
         "Stock Symbol": "SLICL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2750",
-        "S.N.": "310",
+        "S.N.": "311",
         "Sector": "Microfinance",
         "Stock Name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "SLBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/706",
-        "S.N.": "311",
+        "S.N.": "312",
         "Sector": "Microfinance",
         "Stock Name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SWMF"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/268",
-        "S.N.": "312",
+        "S.N.": "313",
         "Sector": "Microfinance",
         "Stock Name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SWBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2829",
-        "S.N.": "313",
+        "S.N.": "314",
         "Sector": "Microfinance",
         "Stock Name": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "SMFBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2764",
-        "S.N.": "314",
+        "S.N.": "315",
         "Sector": "Microfinance",
         "Stock Name": "Swadeshi Laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "SDESI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/545",
-        "S.N.": "315",
+        "S.N.": "316",
         "Sector": "Microfinance",
         "Stock Name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
         "Stock Symbol": "SLBBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/249",
-        "S.N.": "316",
+        "S.N.": "317",
         "Sector": "Finance",
         "Stock Name": "Synergy Finance Ltd.",
         "Stock Symbol": "SYFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2759",
-        "S.N.": "317",
+        "S.N.": "318",
         "Sector": "Hydro Power",
         "Stock Name": "Synergy Power Development Ltd.",
         "Stock Symbol": "SPDL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/148",
-        "S.N.": "318",
+        "S.N.": "319",
         "Sector": "Hotels",
         "Stock Name": "Taragaon Regency Hotel Limited",
         "Stock Symbol": "TRH"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8022",
-        "S.N.": "319",
+        "S.N.": "320",
         "Sector": "Hydro Power",
         "Stock Name": "Terhathum Power Company Limited",
         "Stock Symbol": "TPC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2855",
-        "S.N.": "320",
+        "S.N.": "321",
         "Sector": "Development Banks",
         "Stock Name": "Tinau Mission Development Bank Limited",
         "Stock Symbol": "TMDBL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/219",
-        "S.N.": "321",
+        "S.N.": "322",
         "Sector": "Manufacturing And Processing",
         "Stock Name": "Unilever Nepal Limited",
         "Stock Symbol": "UNL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2831",
-        "S.N.": "322",
+        "S.N.": "323",
         "Sector": "Hydro Power",
         "Stock Name": "Union Hydropower Limited",
         "Stock Symbol": "UNHPL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/4956",
-        "S.N.": "323",
+        "S.N.": "324",
         "Sector": "Life Insurance",
         "Stock Name": "Union Life Insurance Company Limited",
         "Stock Symbol": "ULI"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/242",
-        "S.N.": "324",
+        "S.N.": "325",
         "Sector": "Finance",
         "Stock Name": "United Finance Ltd.",
         "Stock Symbol": "UFL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2914",
-        "S.N.": "325",
+        "S.N.": "326",
         "Sector": "Hydro Power",
         "Stock Name": "United IDI Mardi RB Hydropower Limited.",
         "Stock Symbol": "UMRH"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/180",
-        "S.N.": "326",
+        "S.N.": "327",
         "Sector": "Non Life Insurance",
         "Stock Name": "United Insurance Co. (Nepal) Ltd.",
         "Stock Symbol": "UIC"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2760",
-        "S.N.": "327",
+        "S.N.": "328",
         "Sector": "Hydro Power",
         "Stock Name": "United Modi Hydropower Ltd.",
         "Stock Symbol": "UMHL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2810",
-        "S.N.": "328",
+        "S.N.": "329",
         "Sector": "Hydro Power",
         "Stock Name": "UNIVERSAL POWER COMPANY LTD",
         "Stock Symbol": "UPCL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2774",
-        "S.N.": "329",
+        "S.N.": "330",
         "Sector": "Microfinance",
         "Stock Name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "USLB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/8063",
-        "S.N.": "330",
+        "S.N.": "331",
         "Sector": "Microfinance",
         "Stock Name": "Upakar Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "ULBSL"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2792",
-        "S.N.": "331",
+        "S.N.": "332",
         "Sector": "Hydro Power",
         "Stock Name": "Upper Tamakoshi Hydropower Ltd",
         "Stock Symbol": "UPPER"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/687",
-        "S.N.": "332",
+        "S.N.": "333",
         "Sector": "Microfinance",
         "Stock Name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
         "Stock Symbol": "VLBS"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/2781",
-        "S.N.": "333",
+        "S.N.": "334",
         "Sector": "Microfinance",
         "Stock Name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
         "Stock Symbol": "WNLB"
     },
     {
         "Operations": "http://www.nepalstock.com/company/display/146",
-        "S.N.": "334",
+        "S.N.": "335",
         "Sector": "Hotels",
         "Stock Name": "Yak And Yeti Hotel Limited",
         "Stock Symbol": "YHL"
